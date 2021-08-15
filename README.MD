@@ -2,6 +2,7 @@
   - NextJS
   - GraphQL / GraphCMS
   - Leaflet na prática
+  - Teste unitários / Testes funcionais
 
 
 
