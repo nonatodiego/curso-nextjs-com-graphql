@@ -8,7 +8,7 @@
 <br />
 
 <p>
-  Crie um mapa totalmente interativo com um CMS integrado em poucas horas!
+ Mapa totalmente interativo com um CMS integrado
 </p>
 
 
